@@ -4,7 +4,7 @@
 
 * [Requirements](#requirements)
 
-* [How to run](how-to-run?)
+* [How to run?](#how-to-run)
 
 ---
 
